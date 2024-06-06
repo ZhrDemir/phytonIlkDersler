@@ -9,3 +9,11 @@ else :
     print(f"{sayi1} büyüktür {sayi2} den ")        
     
     
+cumle="merhaba dünya..."
+if "." in cumle:
+    print("cümle içinde . var")
+else :
+    print("cümlede . yok")
+    
+            
+    
